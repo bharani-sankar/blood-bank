@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/blood-bank/static/css/main.2820e7d0.css",
+    "main.js": "/blood-bank/static/js/main.17231a0e.js",
+    "static/js/206.3d677a80.chunk.js": "/blood-bank/static/js/206.3d677a80.chunk.js",
+    "index.html": "/blood-bank/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.2820e7d0.css",
+    "static/js/main.17231a0e.js"
+  ]
+}
